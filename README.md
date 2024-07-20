@@ -4,7 +4,7 @@
 
 > ### Cloudflare Worker 部署
 >
-> [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Harry-zklcdc/go-bingai-pass)
+> [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dengchangdong/BingAI-PASS)
 
 ## 环境变量
 
