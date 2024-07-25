@@ -1,6 +1,6 @@
 import './wasm_exec.js'
 
-import WASM from './go-bingai-pass.wasm'
+import WASM from './bingai-pass.wasm'
 
 const fCF = async (req) => {
   const go = new Go();
