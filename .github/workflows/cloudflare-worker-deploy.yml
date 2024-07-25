@@ -15,7 +15,7 @@ jobs:
 
       - name: Install WASM Module
         run: |
-          curl -L https://github.com/Harry-zklcdc/go-bingai-pass/releases/latest/download/go-bingai-pass.wasm -o cloudflare/go-bingai-pass.wasm
+          curl -L https://github.com/Harry-zklcdc/go-bingai-pass/releases/latest/download/go-bingai-pass.wasm -o cloudflare/bingai-pass.wasm
 
       - name: Build & Deploy Worker
         uses: cloudflare/wrangler-action@v3
